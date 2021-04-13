@@ -1,0 +1,12 @@
+_version: 1.15.0.0
+changesets:
+  .:
+    hash: a85510d08f17ab916ed74b5eda9a50f5e7d3f514
+    remote: git@github.com:ronshilo/pycon2021_vmn_demo.git
+    vcs_type: git
+info: {}
+name: myapp
+previous_version: 1.14.0
+release_mode: minor
+stamped_on_branch: master
+version: 1.15.0

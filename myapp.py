@@ -1,2 +1,2 @@
 #!/usr/bin/env python
-print("hello world, nice to meet you")
+print("hello Pycon Israel 2021")
